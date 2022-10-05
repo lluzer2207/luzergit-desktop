@@ -8,7 +8,7 @@ public class TestShape {
         IShape s6 = new Rectangle(2.0, 4.0);
         IShape s7 = new Circle(24.0);
         IShape s8 = new Rectangle(6.0, 1.5);
-        IShape[] shapes = {s1, s2, s3, s4, s5, s6};
+        IShape[] shapes = {s1, s2, s3, s4, s5, s6,s7,s8};
         int i = 1;
         for (IShape hinhDang:shapes
              ) {
